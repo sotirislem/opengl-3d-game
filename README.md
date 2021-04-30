@@ -25,7 +25,7 @@ The player can move back and forth with the "W" and "S" buttons or turn left and
 
 ## Required libraries
 ```
-OpenGL – GLUT
+OpenGL â€“ GLUT
 ```
 
 ## How to compile and run
@@ -36,3 +36,6 @@ Usage: "make PROG=Game"
 After successful compilation, run the executable on terminal by giving the grid dimension as a parameter.
 Example: "./Game 10"
 ```
+
+## Run Demo:
+![Screenshot ](https://user-images.githubusercontent.com/10964246/116663895-65a36280-a9a0-11eb-84d4-dd6a902e3d25.png)
